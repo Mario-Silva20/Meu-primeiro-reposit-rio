@@ -14,3 +14,8 @@
  2. Ver como se criam as pastinhas pra organizar o meu outro repositório;
  3. Resolver um erro que gerou uma dúvida recorrente;
  4. Atualizar com mais um exercício também no meu outro repositório
+ 
+ 
+ 
+ 
+ ***Passando aqui só pra dizer que o curso foi concluído e o erro e as dúvidas resolvidos.***
